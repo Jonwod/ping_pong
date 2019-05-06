@@ -1,0 +1,7 @@
+[package]
+name = "ping_pong"
+version = "0.1.0"
+authors = ["Jon <jonathan.m.wood95@gmail.com>"]
+edition = "2018"
+
+[dependencies]
